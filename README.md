@@ -10,7 +10,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/registration-form.git
+    git clone https://github.com/iammahesh123/JSP-Client-Request-Demo.git
     ```
 2. Deploy the project to a servlet container such as Apache Tomcat.
 3. Access the application through the web browser.
